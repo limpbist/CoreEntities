@@ -1,0 +1,16 @@
+PODS:
+  - CoreEntities (0.1.0)
+
+DEPENDENCIES:
+  - CoreEntities (from `../`)
+
+EXTERNAL SOURCES:
+  CoreEntities:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreEntities: fc7b17419d9f846e2816eec35f8661737381ab21
+
+PODFILE CHECKSUM: 26c4be2492af894186287a9f4d00e0ad8044d1c4
+
+COCOAPODS: 1.14.2
